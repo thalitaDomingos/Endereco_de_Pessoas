@@ -2,8 +2,8 @@ package thalita.dom;
 
 public class Pessoa {
 
-    public String nome;
-    public int cpf;
+    private String nome;
+    private int cpf;
 
     private Endereco[] enderecos;
 
